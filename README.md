@@ -1,8 +1,10 @@
 ` 阅读笔记 `
 
 ### 正在读的书：
-- [大型网站技术架构：核心原理与案例分析][ing01]『李智慧(2013) 』
+- [大型网站技术架构：核心原理与案例分析][ing01]『李智慧(2013 电子工业出版社) 』
+- [设计模式之禅][ing02]秦小波(2014 机械工业出版社) 』
 [ing01]: https://github.com/PatrickRoot/Reading-Notes/blob/master/大型网站技术架构.md
+[ing02]: https://github.com/PatrickRoot/Reading-Notes/blob/master/设计模式之禅.md
 
 
 ### [六楼实验室博客][sixlab]：
